@@ -1,7 +1,7 @@
 package juego;
 
-import juego.Piezas.CaballoBlanco;
-import juego.Piezas.CaballoNegro;
+import juego.Piezas.Caballo.CaballoBlanco;
+import juego.Piezas.Caballo.CaballoNegro;
 
 import static com.diogonunes.jcolor.Ansi.colorize;
 

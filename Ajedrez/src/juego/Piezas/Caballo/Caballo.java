@@ -1,4 +1,4 @@
-package juego.Piezas;
+package juego.Piezas.Caballo;
 
 import juego.*;
 import juego.Tools.CordenadasArray;
